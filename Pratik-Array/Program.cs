@@ -22,6 +22,8 @@ sayilar[sayilar.Length - 1] = yeniSayi; // Yeni girilen sayı dizinin son eleman
 
 Array.Sort(sayilar); // Diziyi küçükten büyüğe sıralar (Array sınıfının Sort metodu).
 
+Array.Reverse(sayilar); // Küçükten büyüye sıralamış olduğum diziy tersine çevirdim.
+
 Console.WriteLine("Büyükten küçüğe sıralanmış sayılar"); // Sonuçların başlığını yazdırır.
 
 foreach (int i in sayilar.Reverse()) // Diziyi tersten (büyükten küçüğe) yazdırmak için foreach kullanarak sırayla elemanları ekrana yazdırır.
