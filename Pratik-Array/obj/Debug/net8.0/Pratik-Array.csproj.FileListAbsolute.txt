@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Array\bin\Debug\net8.0\Pratik-Array.exe
+C:\Users\Orkun\source\repos\Pratik-Array\bin\Debug\net8.0\Pratik-Array.deps.json
+C:\Users\Orkun\source\repos\Pratik-Array\bin\Debug\net8.0\Pratik-Array.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Array\bin\Debug\net8.0\Pratik-Array.dll
+C:\Users\Orkun\source\repos\Pratik-Array\bin\Debug\net8.0\Pratik-Array.pdb
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.dll
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\refint\Pratik-Array.dll
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.pdb
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\Pratik-Array.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Array\obj\Debug\net8.0\ref\Pratik-Array.dll
